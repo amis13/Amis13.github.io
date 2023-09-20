@@ -402,8 +402,8 @@ Header Style
 
 .header-area .main-nav .logo {
   border-right: 1px solid #27292a;
-  flex-basis: 25%;
-  margin-right: 5%;
+  flex-basis: 6%;
+  margin-right: 25%;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
